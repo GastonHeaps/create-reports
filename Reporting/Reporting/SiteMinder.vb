@@ -6,6 +6,9 @@ Imports System.Runtime.InteropServices
 Imports System.Text
 Imports System.Net
 
+
+'This module is a modified version of the code found here:
+'http://www.codeproject.com/Articles/80314/How-to-Connect-to-a-SiteMinder-Protected-Resource
 Module SiteMinder
 
     ' use DLLImport to import the WinINet SetCookie function,
